@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thempadl.github.io/sitemap.thempadl.gz
+Sitemap: https://thempadl.github.io/app/sitemap.thempadl.gz
+Sitemap: https://thempadl.github.io/assets/sitemap.thempadl.gz
+Sitemap: https://thempadl.github.io/css/sitemap.thempadl.gz
+Sitemap: https://thempadl.github.io/data/sitemap.thempadl.gz
+Sitemap: https://thempadl.github.io/includes/sitemap.thempadl.gz
+Sitemap: https://thempadl.github.io/item/sitemap.thempadl.gz
+Sitemap: https://thempadl.github.io/src/sitemap.thempadl.gz
